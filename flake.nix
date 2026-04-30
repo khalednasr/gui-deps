@@ -11,6 +11,7 @@
         freetype
         glib
         libGL
+        libGLU
         libx11
         libxcb
         libxcb-cursor
@@ -21,9 +22,13 @@
         libxcb-wm
         libxcursor
         libxext
+        libxfixes
+        libxft
         libxi
+        libxinerama
         libxkbcommon
         libxrandr
+        libxrender
         stdenv.cc.cc
         wayland
         zlib
